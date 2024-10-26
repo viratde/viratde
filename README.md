@@ -26,6 +26,10 @@ My goal is to contribute to **AndroidX**, **Kotlin Coroutines**, and **Kotlin Mu
 - LinkedIn: [Connect Here](https://www.linkedin.com/in/viratdev/) – Let’s discuss Kotlin Multiplatform in the **Codeancy** group!
 - Twitter: [Follow me](https://x.com/virat_kum_dev) – For updates on my open-source journey.
 
+### 👔 Open to Opportunities
+I’m open to **Android developer positions** or **freelance projects** focused on Android. Let’s build something amazing together!
+
 ---
 
-I’m always open to discussions, collaborations, and new opportunities. Let’s build something amazing together!
+I’m always open to discussions, collaborations, and new opportunities.
+
