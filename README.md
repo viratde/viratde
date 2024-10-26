@@ -23,8 +23,8 @@ My goal is to contribute to **AndroidX**, **Kotlin Coroutines**, and **Kotlin Mu
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Connect Here](https://linkedin.com/) – Let’s discuss Kotlin Multiplatform in the **Codeancy** group!
-- Twitter: [Follow me](https://twitter.com/) – For updates on my open-source journey.
+- LinkedIn: [Connect Here](https://www.linkedin.com/in/viratdev/) – Let’s discuss Kotlin Multiplatform in the **Codeancy** group!
+- Twitter: [Follow me](https://x.com/virat_kum_dev) – For updates on my open-source journey.
 
 ---
 
