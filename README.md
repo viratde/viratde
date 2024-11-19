@@ -7,7 +7,7 @@ I'm a self-taught **Android Developer** with over 2 years of experience in mobil
 ## 🚀 What I’m Working On
 
 - **Task Manager App** – A robust app with position-based task assignments, scheduling, and event management.
-- **Mutual Fund SIP App** – A fintech project for seamless mutual fund investments in India, integrating with AMC aggregators.
+- **Hotel Booking App** – A hotel booking project for seamless booking rooms, resorts and all.
 - **Custom Gradle Plugins** – Creating plugins for streamlined dependency and build management.
 
 ---
