@@ -1,18 +1,20 @@
 # 👋 Hello, I'm Virat Kumar!
 
-I'm a self-taught **Android Developer** with over 2 years of experience in mobile app development, specializing in **Kotlin**, **Jetpack Compose**, and multi-module architecture. Currently, I’m focused on Kotlin Multiplatform (KMP) and building scalable, efficient Android apps. I'm also diving into **Kotlin Symbol Processing (KSP)** to contribute to open-source projects like AndroidX and enhance my tooling skills.
+I'm a self-taught **Android Developer** with over 2 years of experience in mobile app development, specializing in **Kotlin**, **Jetpack Compose**, and multi-module architecture. I am passionate about building scalable, high-quality apps using modern Android development practices. Currently, I’m exploring **Kotlin Multiplatform (KMP)** and contributing to open-source projects.
 
 ---
 
 ## 🚀 What I’m Working On
 
-- **Task Manager App** – a robust app with position-based task assignments, scheduling, and event management.
-- **Mutual Fund SIP App** – a fintech project for seamless mutual fund investments in India, integrating with AMC aggregators.
-- **Custom Gradle Plugins** – creating plugins for streamlined dependency and build management.
+- **Task Manager App** – A robust app with position-based task assignments, scheduling, and event management.
+- **Mutual Fund SIP App** – A fintech project for seamless mutual fund investments in India, integrating with AMC aggregators.
+- **Custom Gradle Plugins** – Creating plugins for streamlined dependency and build management.
 
-# Projects
+---
 
-## Runique
+## 📂 Projects
+
+### Runique
 A running tracker app built with Jetpack Compose, designed to help users monitor running stats, track progress, and set personal goals.
 
 - **Features**:
@@ -24,7 +26,7 @@ A running tracker app built with Jetpack Compose, designed to help users monitor
 
 ---
 
-## OxyHotels
+### OxyHotels
 A hotel booking app offering a seamless browsing and booking experience. Features a dynamic image pager and detailed hotel information screens.
 
 - **Features**:
@@ -36,7 +38,7 @@ A hotel booking app offering a seamless browsing and booking experience. Feature
 
 ---
 
-## Tasky
+### Tasky
 A task management app for businesses, supporting flexible task creation and position-based assignments. Designed for versatile business needs.
 
 - **Features**:
@@ -48,7 +50,7 @@ A task management app for businesses, supporting flexible task creation and posi
 
 ---
 
-## Hotel Management Analytics System
+### Hotel Management Analytics System
 A complex analytics system developed in Node.js for hotel management, delivering detailed insights and real-time data to optimize operations.
 
 - **Features**:
@@ -60,7 +62,28 @@ A complex analytics system developed in Node.js for hotel management, delivering
 
 ---
 
-## Ivy Wallet (Contribution)
+### Codeancy
+A web project built with a focus on animations, parallax scrolling, and CMS functionalities.
+
+- **Codeancy Website**: An agenda-like web experience with spa-like animations and parallax scrolling.
+  [**Website**](https://codeancy.com/)
+- **Blogging Platform**: A CMS-backed blog with features for article creation, editing, and verification.
+  [**Live Website**](https://blogs.codeancy.com/)
+
+---
+
+### Oxy Manager App
+A management app for hotel managers, developed with Kotlin and Jetpack Compose.
+
+- **Features**:
+  - Manage bookings, check-ins/outs, and payments.
+  - Real-time analytics and streamlined workflows.
+
+[**Repository**](https://github.com/viratde/Manager)
+
+---
+
+### Ivy Wallet (Contribution)
 Contributed to the Ivy Wallet app, enhancing functionality and user experience in personal expense tracking.
 
 - **Contributions**:
@@ -68,27 +91,30 @@ Contributed to the Ivy Wallet app, enhancing functionality and user experience i
 
 [**Repository**](https://github.com/viratde/ivy-wallet)
 
+---
 
 ## 🛠️ Technologies I Use
 
-- **Languages & Frameworks:** Kotlin, Jetpack Compose, Room, Coroutines, Javascript, Nodejs, ExpressJs, ReactJs, MongoDb
+- **Languages & Frameworks:** Kotlin, Jetpack Compose, Room, Coroutines, JavaScript, Node.js, Express.js, React.js, MongoDB
 - **Architecture:** MVVM, Clean Architecture, Multi-module setup, Dependency Injection
 - **Testing & Mocking:** Ktor MockEngine, UI Automator, Unit & Instrumented Testing
 - **Tooling:** Gradle, KSP, OpenJDK 8
 
+---
+
 ## 🌱 Open-Source Goals
 
-My goal is to contribute to **AndroidX**, **Kotlin Coroutines**, and **Kotlin Multiplatform** libraries. I’m currently exploring the internals of **KSP**, aiming to contribute to its `compiler-plugin` module and gain a deeper understanding of compiler tooling.
-
-## 🌐 Connect with Me
-
-- LinkedIn: [Connect Here](https://www.linkedin.com/in/viratdev/) – Let’s discuss Kotlin Multiplatform in the **Codeancy** group!
-- Twitter: [Follow me](https://x.com/virat_kum_dev) – For updates on my open-source journey.
-
-### 👔 Open to Opportunities
-I’m open to **Android developer positions** or **freelance projects** focused on Android. Let’s build something amazing together!
+I aim to contribute to **AndroidX**, **Kotlin Coroutines**, and **Kotlin Multiplatform** libraries. Currently, I’m diving into **Kotlin Symbol Processing (KSP)** to explore its internals and enhance my compiler tooling expertise.
 
 ---
 
-I’m always open to discussions, collaborations, and new opportunities.
+## 🌐 Connect with Me
 
+- LinkedIn: [Connect Here](https://www.linkedin.com/in/ViratDevX/)
+- Twitter: [Follow me](https://x.com/ViratDevX)
+
+---
+
+### 👔 Open to Opportunities
+
+I’m open to **Android developer positions** or **freelance projects** focused on Android. Let’s build something amazing together!
